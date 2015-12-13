@@ -1,6 +1,6 @@
 # MusicVisual
 
-#### Live coding by [YuanRen](yuanren.cc) in [OF COURSE](http://www.ofcourse.io)
+#### Live coding by [YuanRen](http://yuanren.cc/) in [OF COURSE](http://www.ofcourse.io)
 ##### 讲座直播地址：http://e.vhall.com/686423389
 
 这个项目是任远老师在OF COURSE讲座的一个课堂代码，我整理了下，我用`eclipse`原生`java`代码实现的，然后转到`processing`下的
