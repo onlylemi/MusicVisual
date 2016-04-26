@@ -9,3 +9,5 @@
 ####项目代码
 * 第一个`eclipse`文件下的项目直接导入到`eclipse`中运行就可以
 * 第二个`processing`文件下的项目就是原本`processing`项目，下载之后可以直接运行
+
+![](https://raw.githubusercontent.com/onlylemi/MusicVisual/master/img.gif)
